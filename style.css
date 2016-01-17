@@ -2,3 +2,46 @@
     font-family: 'alpha_echo';
     src: url('alpha_echo.ttf') format('truetype');
 }
+body
+{
+	background: url('fond.jpg') no-repeat fixed ;
+}
+.photo
+{
+	float: right;
+	border: 2px solid blue;
+	box-shadow: 6px 6px 6px 6px red;
+	border-radius: 4px 4px 4px 4px;
+}
+.dessous
+{
+	clear: both;
+}
+h1
+{
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.citation
+{
+	text-align: center;
+	font-style: italic;
+	text-shadow:4px 4px 4px;
+}
+h2
+{
+	font-family: 'alpha_echo',Arial,serif;
+	color: maroon;
+}
+a:hover
+{
+	color: green;
+	text-decoration: none;
+	text-shadow:6px 6px 6px ;
+}
+ul, p
+{
+	font-size: 20px;
+	text-shadow:4px 4px 4px;
+}
