@@ -1,0 +1,4 @@
+@font-face { /* Définition d'une nouvelle police nommée alpha_echo */
+    font-family: 'alpha_echo';
+    src: url('alpha_echo.ttf') format('truetype');
+}
